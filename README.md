@@ -20,12 +20,9 @@
       <a href="https://www.linkedin.com/in/germ%C3%A1n-ruiz-7906681b9/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+      <a href="german.ruiz@inglotec.es" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="Germán" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
@@ -205,7 +202,3 @@
 </details>
 <br/>
 </details> 
-
------
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
